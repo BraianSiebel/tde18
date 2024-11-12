@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TDE07NOV.props" />
+</Project>
